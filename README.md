@@ -1,0 +1,2 @@
+# Automative-Service-Center-Management-System_-ASM-
+This is a custom Automotive Service Management Center application (ASM) developed on the ServiceNow platform. It streamlines the process of managing customer vehicle service requests, work orders, technician assignments, Gamification, and real-time communication Chat between customers and department managers— all within a single unified platform.
