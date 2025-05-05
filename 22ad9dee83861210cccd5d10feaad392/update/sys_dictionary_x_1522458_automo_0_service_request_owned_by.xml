@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-23 18:46:59</sys_created_on>
-        <sys_id>861e315f832a5e10cccd5d10feaad3a6</sys_id>
         <sys_name>Owned by</sys_name>
         <sys_package display_value="Automotive Service Management" source="x_1522458_automo_0">22ad9dee83861210cccd5d10feaad392</sys_package>
         <sys_policy/>

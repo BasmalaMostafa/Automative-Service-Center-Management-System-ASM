@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-14 08:29:47</sys_created_on>
-        <sys_id>b7c34d5e83835210cccd5d10feaad3bc</sys_id>
         <sys_name>Receiver</sys_name>
         <sys_package display_value="Automotive Service Management" source="x_1522458_automo_0">22ad9dee83861210cccd5d10feaad392</sys_package>
         <sys_policy/>

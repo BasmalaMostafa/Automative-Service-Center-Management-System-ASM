@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-19 11:12:58</sys_created_on>
-        <sys_id>7a19d7f383071210cccd5d10feaad377</sys_id>
         <sys_name>Field for debugging</sys_name>
         <sys_package display_value="Automotive Service Management" source="x_1522458_automo_0">22ad9dee83861210cccd5d10feaad392</sys_package>
         <sys_policy/>
